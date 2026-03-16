@@ -1,3 +1,13 @@
+/*
+                          **Atividade 2 - Flutter**
+  | Professora: Rosanete Grassiani dos Santos | 5º Semestre ADS | Desenvolvimento Mobile |
+  | Aluno: Weslley Luiz Kampa | Data: 16/03/2026
+  | Descrição: App Flutter explorando as propriedades do Scaffold, estilização 
+  |            de textos (fontes e cores customizadas), uso de Columns/Rows 
+  |            e gradientes, com temática inspirada em O Senhor dos Anéis.
+  | Link do repositório: https://github.com/agr3w/Att_2_Flutter_Desenvolvimento_Mobile_Unifacear
+*/
+
 import 'package:flutter/material.dart';
 
 void main() {
